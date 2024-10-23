@@ -1,6 +1,8 @@
 Session.vim
 result*
 
+tailctl
+
 # Created by https://www.toptal.com/developers/gitignore/api/golang
 # Edit at https://www.toptal.com/developers/gitignore?templates=golang
 
