@@ -1,8 +1,6 @@
 module tailctl
 
-go 1.22.0
-
-toolchain go1.22.7
+go 1.22
 
 require (
 	github.com/tailscale/tailscale-client-go/v2 v2.0.0-20240920152217-9894791f98d9
